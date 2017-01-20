@@ -1,0 +1,19 @@
+{
+  "name": "AskadeBillingBackend",
+  "version": "1.0.0",
+  "description": "Rest Api for Askade Billing",
+  "main": "Server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Node.js",
+    "mongoDb"
+  ],
+  "author": "Adrian Ionita",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
